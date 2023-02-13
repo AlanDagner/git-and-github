@@ -1,2 +1,2 @@
-# git-and-github
+# archivo README
 Git y GitHub
